@@ -1,0 +1,53 @@
+div#container{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+div#header {
+	height: 50px;
+	width: 100%;
+	background-color: rgb(0,170,0);
+	border: 0px;
+	box-shadow: 1px 1px 1px grey;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 32px;
+	color: #ffffff;
+	font-family: sans-serif;
+	text-shadow: 1px 1px 5px #000000;
+}
+
+div#body {
+	width: 100%;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+div#profile{
+	background-color: rgb(0,160,0);
+	box-shadow: 1px 1px 1px grey;
+}
+
+img#picture {
+	border-radius: 50%;
+}
+
+h3#info {
+	font-family: sans-serif;
+	font-size: 32px;
+}
+
+hr#break {
+	width: 50%;
+	color: #000000;
+}
+
+h3#expct {
+	font-family: sans-serif;
+	font-size: 32px;
+}
+
+body {
+	padding: 0px,0px,0px,0px;
+	background-color: rgb(178,250,220);
+}
